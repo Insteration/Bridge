@@ -12,6 +12,7 @@
 		D97B7C25226B202500FFE9E5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D97B7C23226B202500FFE9E5 /* Main.storyboard */; };
 		D97B7C27226B202500FFE9E5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D97B7C26226B202500FFE9E5 /* Assets.xcassets */; };
 		D97B7C2A226B202500FFE9E5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D97B7C28226B202500FFE9E5 /* LaunchScreen.storyboard */; };
+		D97B7C32226B224300FFE9E5 /* DayPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97B7C31226B224300FFE9E5 /* DayPickerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D97B7C26226B202500FFE9E5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D97B7C29226B202500FFE9E5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D97B7C2B226B202500FFE9E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D97B7C31226B224300FFE9E5 /* DayPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayPickerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				D97B7C1F226B202400FFE9E5 /* AppDelegate.swift */,
 				D97B7C21226B202400FFE9E5 /* ViewController.swift */,
+				D97B7C31226B224300FFE9E5 /* DayPickerView.swift */,
 				D97B7C23226B202500FFE9E5 /* Main.storyboard */,
 				D97B7C26226B202500FFE9E5 /* Assets.xcassets */,
 				D97B7C28226B202500FFE9E5 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				D97B7C22226B202400FFE9E5 /* ViewController.swift in Sources */,
 				D97B7C20226B202400FFE9E5 /* AppDelegate.swift in Sources */,
+				D97B7C32226B224300FFE9E5 /* DayPickerView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
